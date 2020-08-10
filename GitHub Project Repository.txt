@@ -1,0 +1,19 @@
+One Sentence Description of my Project:
+
+This is a resume site.
+
+Link to the hosted solution:
+
+https://github.com/raisgood/portfolio/blob/master/Rashad%20Diop's%20Portfolio.html
+
+User Stories:
+
+As a front-end Web Developer, I want to reach tech companies, so that I can work as a web developer.
+
+As a Web Development company, I want to reach a website to recruit a web development front-end professional.
+
+As a web development employee, I want to reach major web development companies, so I can assist them with their web development sites.
+
+Link to Wireframe Images in GitHub Repository:
+
+https://github.com/raisgood/portfolio/blob/master/Rashad%20Diop's%20Portfolio.html
