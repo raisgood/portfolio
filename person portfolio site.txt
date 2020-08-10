@@ -1,0 +1,37 @@
+Website I would like to create:
+
+Personal portfolio site
+
+Target Audience:
+
+Employers looking for web designers
+
+Persona:
+
+Environment - technological
+Jobs and responsibilities - Web Developer; Educator, Filmmaker
+
+Attitudes - Cordial, Diligent Worker
+
+Goals and desires (gains) - Seekers for web designer will look at my to find their front-end web designer
+
+Challenges and pains (pains) - Employers searching for a web designer can find a front-end web designer
+
+Demographic information - Worldwide
+
+Fictional name - Rashad Diop
+
+Overall user statement - Rahad Diop is a front-end Web Developer specializing in HTML, CSS, Java Script, JQuery and other coding languages.  I'm looking for the opportunity to join a team to create fantasic website.
+
+An image - 
+
+User stories:
+
+Format -
+As a front-end Web Developer, I want to reach tech companies, so that I can work as a web developer.
+
+As a Web Development company, I want to reach a website to recruit a web development front-end professional.
+
+As a web development employee, I want to reach major web development companies, so I can assist them with their web development sites.
+
+Wirefires:
